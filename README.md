@@ -1,4 +1,3 @@
-# itsrobertngatia
 # Hi there, I'm Robert Ngatia 👋
 
 **ICT Manager | Fibre Technician | Creative Technologist | ALX SE Learner**
