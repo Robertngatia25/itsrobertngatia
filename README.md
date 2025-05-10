@@ -50,7 +50,7 @@ Welcome to my digital workspace! I’m an ICT professional with experience in ne
 ### 🔗 Let’s Connect
 
 - 💼 [Portfolio/Repo URL](https://github.com/itsrobertngatia)
-- 📧 ngatia.robert93@gmail.com
+- 📧 ngatiah.robert@gmail.com
 - 🐦 [Twitter/X](https://x.com/roberto_harman)
 - 💡 LinkedIn (www.linkedin.com/in/robert-ngatia)
 
